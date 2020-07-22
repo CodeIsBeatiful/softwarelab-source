@@ -1,0 +1,8 @@
+{
+ "type":"util",
+ "description":"softwarelab dashboard",
+ "additional_info":{"ports":[8080]},
+ "versions": [
+   {"version":"0.0.1"}
+ ]
+}
