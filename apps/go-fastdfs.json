@@ -1,0 +1,11 @@
+{
+	"type": "Util",
+	"description": "A simple distributed file storage service, high performance, high reliability, labor-saving and worry-free operation and maintenance, and extremely simple design allows expansion as you want.",
+	"additional_info": {
+		"imageName": "sjqzhang/go-fastdfs",
+		"ports": [{"port":8080,"type":"http","entrance": true}]
+	},
+	"versions": [{
+		"version": "latest"
+	}]
+}

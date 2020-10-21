@@ -1,0 +1,14 @@
+{
+	"type": "Database",
+	"description": "ClickHouse is an open-source column-oriented database management system that allows generating analytical data reports in real-time.",
+	"additional_info": {
+		"imageName":"yandex/clickhouse-server",
+		"ports":[
+			{"port":8123,"type":"http"},
+			{"port":9000,"type":"tcp"}
+		]
+	},
+	"versions": [{
+		"version": "20.6.6.7"
+	}]
+	}

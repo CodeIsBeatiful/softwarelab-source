@@ -1,0 +1,11 @@
+{
+	"type": "Web",
+	"description": "Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go.",
+	"additional_info": {
+		"imageName": "caddy",
+		"ports": [{"port": 80,"type": "http","entrance": true}]
+	},
+	"versions": [{
+		"version": "2.1.1-alpine"
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	"type": "Database",
+	"description": "MongoDB document databases provide high availability and easy scalability.",
+	"additional_info": {
+		"imageName":"mongo",
+		"ports":[{"port":27017,"type":"tcp"}]
+	},
+	"versions": [{
+		"version": "3.6.20"
+	}]
+	}

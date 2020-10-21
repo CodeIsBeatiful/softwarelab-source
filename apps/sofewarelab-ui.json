@@ -1,8 +1,0 @@
-{
- "type":"softwarelab",
- "description":"softwarelab ui",
- "additional_info":{"ports":[8080]},
- "versions": [
-   {"version":"0.0.1"}
- ]
-}

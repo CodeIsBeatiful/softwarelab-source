@@ -1,0 +1,14 @@
+{
+	"type": "Util",
+	"description": "Apache ZooKeeper is an open-source server which enables highly reliable distributed coordination.",
+	"additional_info": {
+		"imageName":"zookeeper",
+		"ports":[
+			{"port":2181,"type":"tcp"},
+			{"port":8080,"type":"http","entrance": true}
+		]
+	},
+	"versions": [{
+		"version": "3.4.14"
+	}]
+	}
