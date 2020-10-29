@@ -7,6 +7,6 @@
 		"envs": [{"label":"password","key":"POSTGRES_PASSWORD"}]
 	},
 	"versions": [{
-		"version": "2.1.1-alpine"
+		"version": "9.6"
 	}]
 }
